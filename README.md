@@ -78,5 +78,3 @@ I am a detail-oriented **Software Engineer** specializing in building **scalable
 
 ### 📫 Connect with me:
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:youssef.tarek.work24@gmail.com) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/youssef-tarek24)
-
-📄 **Resume:** [Download / View My CV (PDF)](https://github.com/youssef-tarek24/youssef-tarek24/blob/main/Youssef_Tarek_Software_Engineer.pdf)
